@@ -1,0 +1,39 @@
+{
+  "meta": {
+    "name": "Chị Thổ",
+    "nguHanh": "Thổ",
+    "diaChi": "Thìn",
+    "gioiTinh": "Nữ"
+  },
+  "planets": {
+    "Mệnh": {
+      "position": { "x": 0, "y": 0, "z": 0 },
+      "chinhTinh": [
+        { "name": "Tham Lang", "score": 85 }
+      ],
+      "phuTinh": []
+    },
+    "Phu Thê": {
+      "position": { "x": 25, "y": 0, "z": -15 },
+      "chinhTinh": [
+        { "name": "Tử Vi", "score": 90 }
+      ],
+      "phuTinh": []
+    },
+    "Phúc Đức": {
+      "position": { "x": 15, "y": 10, "z": -25 },
+      "chinhTinh": [],
+      "phuTinh": []
+    },
+    "Quan Lộc": {
+      "position": { "x": -25, "y": 0, "z": -15 },
+      "chinhTinh": [],
+      "phuTinh": []
+    },
+    "Tài Bạch": {
+      "position": { "x": -20, "y": -10, "z": 20 },
+      "chinhTinh": [],
+      "phuTinh": []
+    }
+  }
+}
